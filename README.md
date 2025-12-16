@@ -1,9 +1,5 @@
- Hello, I’m tema 
- I’m interested in developing modifications for GTA and building custom PCs.  
- I’m currently learning new ways to optimize mods and improve PC performance.  
- I’m looking to collaborate on GTA mods, PC building tips, and game development projects.  
- How to reach me: You can contact me through GitHub or tg - xcv199. 
- Fun fact: I live in Tel Aviv, Israel, and love exploring new tech trends and gaming modifications.
+feel free to contact me on GitHub or Telegram — @xcv199.
+fun fact: i live in Tel Aviv, Israel, and i’m into new tech, experiments, and game modding.
 
 
 <!---
